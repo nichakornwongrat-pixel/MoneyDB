@@ -1,0 +1,6 @@
+{
+  "name": "ระบบจัดการรายรับรายจ่าย",
+  "description": "เว็บแอปพลิเคชันบันทึกและจัดการรายรับรายจ่าย พร้อมการสรุปผลรายเดือนและกราฟวิเคราะห์ข้อมูล บันทึกข้อมูลด้วย Firebase และเข้าสู่ระบบด้วย Google",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
